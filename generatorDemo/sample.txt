@@ -1,0 +1,1 @@
+Was I able to open new text file and write it?

@@ -1,0 +1,23 @@
+git and github imp cmd lines
+
+
+to create local repo
+select the file location and type git init
+git status ---> will give you which files are yet to be tracked
+git add . -->  this means git add all
+git commit -m "eg: my first commit"
+
+if you delete any file from the folder then 
+git commit -a -m "eg: modified/deleted"
+
+if you are pushing your local repo to github for the first time then
+github provides you the link you have to execute it
+
+then, 
+git branch -M main
+
+git push -u origin main
+ 
+
+extra:
+to see what was the difference in two commits type git log
