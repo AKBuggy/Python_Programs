@@ -23,3 +23,4 @@ extra:
 to see what was the difference in two commits type git log
 
 git clone (link here) --> clones the repository 
+to remove git repo --> rm -fr .git
