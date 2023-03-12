@@ -1,4 +1,7 @@
-l = [1, 2, 3, 4, 5]
+res = 0
 
-if l is not None:
-    print(l)
+def foobar():
+    global res
+    print(res)
+
+foobar()
